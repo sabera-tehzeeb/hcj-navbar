@@ -76,7 +76,7 @@ div {
   width: 42rem;
   border: 1px solid #eee;
   padding: 1rem;
-  background-color: #192655;
+  background-color: #9e9445;
   color: #fff;
   text-align: center;
   border-radius: 5px;
@@ -104,13 +104,13 @@ hr {
   box-shadow: 1px 1px 1px lightblue;
 }
 button.subtract {
-  background-color: #E1AA74;
+  background-color: #583d22;
 }
 button.reset {
-  background-color: #E1AA74;
+  background-color: #583d22;
 }
 button.add {
-  background-color: #E1AA74;
+  background-color: #583d22;
 }
 .uphand-styles {
   color: greenyellow;
